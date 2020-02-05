@@ -1,2 +1,2 @@
 # hello-world
-i am alex an aspiring to be a coder
+i am alex an aspiring coder
